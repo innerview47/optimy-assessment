@@ -1,0 +1,22 @@
+.card:deep() .image-loader {
+    border-radius: 6px;
+    padding-bottom: 75%;
+}
+.card-info__title {
+    font-size: 25px;
+    text-align: left;
+}
+.card-info__container {
+    text-align: left;
+}
+.card-info__btn {
+    background-color: transparent;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.card-info__date {
+    font-size: 12px;
+}

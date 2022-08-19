@@ -1,0 +1,33 @@
+.image-loader {
+  position: relative;
+  padding-bottom: 100%; /* default ratio 1:1 */
+  overflow: hidden;
+}
+.image-loader img {
+  position: absolute;
+}
+img.pop-in {
+  animation: pop-in 0.1s;
+}
+.not-loaded {
+  background-color: #ccc;
+}
+.not-loaded img {
+  -ms-transform: translate(
+    1000%,
+    1000%
+  ); /* added vendor specific css (IE) */
+  -webkit-transform: translate(1000%, 1000%);
+  transform: translate(1000%, 1000%);
+}
+
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+  }
+}

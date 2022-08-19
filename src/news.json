@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2021-08/queens-gambit-netlfix-ftr_vc8iatnuhen01ugcnjwn35s4u.jpg?itok=iavfjm9p",
+      "title": "Something new",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula pretium nulla nec dignissim. Curabitur ornare felis id tortor sodales, ultricies ultrices ex mattis. In lacinia faucibus purus, a tincidunt mi.",
+      "date": "2022-08-19T15:49:16.263Z",
+      "id": 1
+    },
+    {
+      "image": "https://via.placeholder.com/400x300",
+      "title": "First News Ever",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula pretium nulla nec dignissim. Curabitur ornare felis id tortor sodales, ultricies ultrices ex mattis. In lacinia faucibus purus, a tincidunt mi.",
+      "date": "2022-08-19T15:46:51.034Z",
+      "id": 2
+    }
+  ]
+}
