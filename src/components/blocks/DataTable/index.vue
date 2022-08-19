@@ -58,6 +58,3 @@ const handleEditClick = (id) => {
     </tbody>
 </table>
 </template>
-<style scoped>
-@import './style.css';
-</style>

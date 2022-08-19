@@ -55,6 +55,3 @@ const model = computed({
         >
     </div>
 </template>
-<style scoped>
-@import './style.css';
-</style>
